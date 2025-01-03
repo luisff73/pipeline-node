@@ -4,7 +4,7 @@
   "description": "\"# githubActions_examples\"",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
     "start": "node index.js"
   },
   "keywords": [],
